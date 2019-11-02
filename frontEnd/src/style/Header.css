@@ -1,0 +1,15 @@
+.logout {
+  font-size: 1.2em;
+  margin: 0;
+  float: right;
+  padding-top: 10px;
+  color: #61dafb;
+}
+
+.userInfo {
+  font-size: 1.3em;
+  margin: 0;
+
+  padding-top: 10px;
+  color: #61dafb;
+}

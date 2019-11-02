@@ -1,0 +1,41 @@
+@import "~antd/dist/antd.css";
+@import "./Main.css";
+@import "./Register.css";
+@import "./Login.css";
+@import "./Header.css";
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 8s linear;
+  height: 60px;
+  float: left;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: 0;
+  float: left;
+  padding-top: 14px;
+  color: #61dafb;
+}
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
