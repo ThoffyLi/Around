@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.md linguist-language=Go
+*.yml linguist-language=Go 
+*.html linguist-language=Go
+*.js linguist-language=Go
+*.xml linguist-language=Go
+*.css linguist-language=Go
+*.sql linguist-language=Go
+*.uml linguist-language=Go
+*.cmd linguist-language=Go 
